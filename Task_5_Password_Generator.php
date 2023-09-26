@@ -12,4 +12,4 @@ function generatePassword($length){
     return $password;
 }
 
-echo generatePassword(12);
+echo (generatePassword(12));
