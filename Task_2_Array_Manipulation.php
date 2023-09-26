@@ -12,5 +12,5 @@ function removeEven($numbers){
     }
     return $numbers;
 }   
-
+// Call the function and print the resulting array
 print_r (removeEven($numbers));
